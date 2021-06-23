@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quaker/static/css/main.3103aaab.chunk.css",
+    "main.js": "/quaker/static/js/main.f766f466.chunk.js",
+    "main.js.map": "/quaker/static/js/main.f766f466.chunk.js.map",
+    "runtime-main.js": "/quaker/static/js/runtime-main.ba8302c8.js",
+    "runtime-main.js.map": "/quaker/static/js/runtime-main.ba8302c8.js.map",
+    "static/js/2.ceb5ff70.chunk.js": "/quaker/static/js/2.ceb5ff70.chunk.js",
+    "static/js/2.ceb5ff70.chunk.js.map": "/quaker/static/js/2.ceb5ff70.chunk.js.map",
+    "index.html": "/quaker/index.html",
+    "precache-manifest.682578c41c236cddb93755b30f2e21d6.js": "/quaker/precache-manifest.682578c41c236cddb93755b30f2e21d6.js",
+    "service-worker.js": "/quaker/service-worker.js",
+    "static/css/main.3103aaab.chunk.css.map": "/quaker/static/css/main.3103aaab.chunk.css.map",
+    "static/js/2.ceb5ff70.chunk.js.LICENSE.txt": "/quaker/static/js/2.ceb5ff70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba8302c8.js",
+    "static/js/2.ceb5ff70.chunk.js",
+    "static/css/main.3103aaab.chunk.css",
+    "static/js/main.f766f466.chunk.js"
+  ]
+}
